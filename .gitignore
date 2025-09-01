@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+pids/
+*.pid
+*.seed
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional
+coverage/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Others
+*.tgz
+.idea/
+*.sublime-workspace
+*.sublime-project
